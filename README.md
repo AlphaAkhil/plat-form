@@ -1,5 +1,8 @@
 # PLATFORM
   This is platform maker used by **pygame**, this platform maker you can use for make a diffrent platform as you need you can create long platform for game like MARIO
+# Menu
+  For many sections i make just basic classical terminal base manu. this project is abouts  platform marking  so i thing its not needed to make gui base menu, but menu is just extra part of this project thats why i make on terminal.
+  
 # KEYS
 ##  LEFT Mouse Botton
 
